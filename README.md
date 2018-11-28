@@ -1,2 +1,4 @@
 # hello_world
-just another respository
+just another respositor
+test channel 
+nothing new
